@@ -11,12 +11,12 @@ h1,h2,h3 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
 }
 
 p{
     padding: 1rem;
-    font-size:1.5rem;
+    font-size:1.7rem;
     text-align: justify;
 }
 
